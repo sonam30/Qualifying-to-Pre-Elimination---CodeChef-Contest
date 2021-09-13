@@ -1,5 +1,4 @@
 # Qualifying-to-Pre-Elimination---CodeChef
-Practice Contest on Codechef
 
 <h2>Problem Statement</h2><br>
 Snackdown 2019 is coming! There are two rounds (round A and round B) after the qualification round. From both of them, teams can qualify to the pre-elimination round. According to the rules, in each of these two rounds, teams are sorted in descending order by their score and each team with a score greater or equal to the score of the team at the K=1500-th place advances to the pre-elimination round (this means it is possible to have more than K qualified teams from each round in the case of one or more ties after the K-th place).
@@ -18,7 +17,7 @@ For each test case, print a single line containing one integer — the number of
 - 1≤T≤1,000<br>
 - 1≤K≤N≤105<br>
 - 1≤Si≤109 for each valid i<br>
-- the sum of N for all test cases does not exceed ![10^{6}] <br>
+- the sum of N for all test cases does not exceed $10^{6}$ <br>
 
 <h3>Example Input</h3><br>
 2<br>

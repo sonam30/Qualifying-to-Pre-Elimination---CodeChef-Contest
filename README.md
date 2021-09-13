@@ -7,9 +7,9 @@ Snackdown 2019 is coming! There are two rounds (round A and round B) after the q
 Today, the organizers ask you to count the number of teams which would qualify for the pre-elimination round from round A for a given value of K (possibly different from 1500). They provided the scores of all teams to you; you should ensure that all teams scoring at least as many points as the K-th team qualify.
 
 <h3>Input</h3><br>
-- The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
-- The first line of each test case contains two space-separated integers N and K.
-- The second line contains N space-separated integers S1,S2,…,SN
+- The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.<br>
+- The first line of each test case contains two space-separated integers N and K.<br>
+- The second line contains N space-separated integers S1,S2,…,SN<br>
 
 <h3>Output</h3><br>
 For each test case, print a single line containing one integer — the number of qualified teams.
@@ -18,7 +18,7 @@ For each test case, print a single line containing one integer — the number of
 - 1≤T≤1,000<br>
 - 1≤K≤N≤105<br>
 - 1≤Si≤109 for each valid i<br>
-- the sum of N for all test cases does not exceed 10^{6} <br>
+- the sum of N for all test cases does not exceed ![10^{6}] <br>
 
 <h3>Example Input</h3><br>
 2<br>

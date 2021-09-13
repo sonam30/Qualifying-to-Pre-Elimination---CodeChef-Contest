@@ -15,10 +15,10 @@ Today, the organizers ask you to count the number of teams which would qualify f
 For each test case, print a single line containing one integer — the number of qualified teams.
 
 <h3>Constraints</h3><br>
-- 1≤T≤1,000
-- 1≤K≤N≤105
-- 1≤Si≤109 for each valid i
-- the sum of N for all test cases does not exceed 10^{6} 
+- 1≤T≤1,000<br>
+- 1≤K≤N≤105<br>
+- 1≤Si≤109 for each valid i<br>
+- the sum of N for all test cases does not exceed 10^{6} <br>
 
 <h3>Example Input</h3><br>
 2<br>
